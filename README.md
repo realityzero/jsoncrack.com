@@ -1,4 +1,5 @@
 - Checkout to ```c76da1f``` commit for free version 😉
+- Or refer releases 
 
 <div align="center" style="display:flex;flex-direction:column;">
   <a href="https://jsoncrack.com">
