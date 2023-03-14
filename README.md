@@ -1,3 +1,5 @@
+# JSON Crack without paywall
+
 - Checkout to ```c76da1f``` commit for free version 😉
 - Or refer releases 
 
