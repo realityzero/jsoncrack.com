@@ -1,3 +1,5 @@
+- Checkout to ```c76da1f``` commit for free version 😉
+
 <div align="center" style="display:flex;flex-direction:column;">
   <a href="https://jsoncrack.com">
     <img width="700" alt="jsoncrack" src="https://user-images.githubusercontent.com/47941171/206401172-74c21f7f-0a32-4532-96cc-4cf6b493c837.png">
